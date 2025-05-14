@@ -2,10 +2,6 @@
 <div align="center"> <img src="https://user-images.githubusercontent.com/97904458/200912394-9ab7bea1-30fa-4a70-a460-d53e759c511c.gif" style="width: 300px;" alt=""> </div>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🔭 I’m currently working on [rp2 LMS](https://github.com/mhdjunaid01/LMS.git)
-
-- 🌱 I’m currently learning **react**
-
 - 👨‍💻 All of my projects are available at [https://github.com/mhdjunaid01?tab=repositories](https://github.com/mhdjunaid01?tab=repositories)
 
 - Linked in [www.linkedin.com/in/mhdjunaidm](www.linkedin.com/in/mhdjunaidm)
